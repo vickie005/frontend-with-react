@@ -23,3 +23,13 @@ button:hover {
 div {
   margin-top: 10px;
 }
+
+body.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+.dark-mode button {
+  background-color: #222;
+  color: white;
+}
